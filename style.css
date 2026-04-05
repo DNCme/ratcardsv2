@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Bounded';
+    src: url('Bounded.ttf') format('truetype');
+}
+
+* {
+    transition: all cubic-bezier(.04,.18,0,.98) 0.3s;
+}
+
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.header {
+    position: sticky;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.9);
+    backdrop-filter: blur(50px);
+    padding: 0px;
+    width: 100%;
+    align-items: center;
+    top: 0;
+}
+
+.imghead {
+    width: 70px;
+    margin: 20px;
+    border-radius: 100%;
+    border: 1px rgba(255, 255, 255, 0.02) solid;
+    cursor: pointer;
+}
+
+.headertxt {
+    width: 100%;
+    font-size: 40px;
+    font-family: 'Bounded';
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+}
+
+.ratcards {
+    width: 100%;
+    font-size: 60px;
+    font-family: 'Bounded';
+    font-weight: 500;
+    color: black;
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.by {
+    width: 100%;
+    font-size: 60px;
+    font-family: 'Bounded';
+    font-weight: 500;
+    color: black;
+    text-align: center;
+    margin-top: 30vh;
+}
+
+.addbutton {
+    background-color: black;
+    width: 600px;
+    height: 125px;
+    font-size: 60px;
+    font-family: 'Bounded';
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 30px;
+    border: none;
+    outline-offset: 0px;
+    outline: 0px rgba(0, 0, 0, 0) dashed;
+    cursor: pointer;
+}
+
+.addbutton:hover {
+    transform: scale(1.05);
+    outline-offset: 10px;
+    outline: 7px rgba(0, 0, 0, 1) dashed;
+}
+
+.centbutton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 45vh;
+}
+
+.foot {
+    background-color: black;
+    width: 100%;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.text {
+    width: 90%;
+    margin-left: 50px;
+    font-size: 30px;
+    font-family: 'Bounded';
+    font-weight: 500;
+    color: black;
+    margin-top: 5vh;
+}
+
+.inf {
+    color: white;
+    text-decoration: none;
+    width: 90%;
+    margin-left: 50px;
+    font-size: 30px;
+    font-family: 'Bounded';
+    font-weight: 500;
+    margin-top: 5vh;
+}

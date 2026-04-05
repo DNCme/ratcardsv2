@@ -1,0 +1,57 @@
+PRIVACY POLICY — RatCardsV2 Discord Bot
+
+Last Updated: April 5, 2026
+
+1. DATA WE COLLECT
+We collect and store the following data for each Discord user who interacts with the bot:
+- Discord User ID (for identification purposes only)
+- Virtual currency balance (coins)
+- Card collection data (rarity, card file path, unique/amethyst status)
+- Experience points and user level
+- Customization preferences (equipped title, color, banner, bio text)
+- Marketplace transaction history (listings, bids, auction data)
+
+2. HOW WE USE YOUR DATA
+Your data is used exclusively to:
+- Track your card collection and virtual inventory
+- Calculate your experience points and level progression
+- Apply your customization preferences to your profile display
+- Process marketplace listings, bids, and auction timers
+- Enforce command cooldowns and game balance rules
+
+3. DATA STORAGE
+- All data is stored locally in a JSON file (data.json) on the bot host's server.
+- No data is transmitted to external servers, cloud services, or third parties.
+- Your data is never sold, rented, shared, or distributed to any outside entity.
+- The bot host is solely responsible for data security and backup.
+
+4. DATA RETENTION
+- Your data persists as long as the bot remains operational.
+- Data may be lost or reset in the event of a server crash without proper backup.
+- Periodic backups are performed by the bot administrator.
+- Users may request data deletion by contacting the bot administrator directly.
+
+5. USER RIGHTS
+- You may view your stored data at any time using /stats, /profile, or /cards.
+- You may request a full copy of your data or request its deletion.
+- Using this bot constitutes your acceptance of this privacy policy.
+
+6. THIRD-PARTY SERVICES
+- This bot operates via the Discord API. Discord Inc.'s own Privacy Policy and Terms of Service apply to your account and message data.
+- This bot does not integrate with, send data to, or receive data from any third-party analytics, advertising, or tracking services.
+- No external APIs or services process your personal data.
+
+7. NOT AFFILIATED WITH "DO NOT CALL ME"
+- RatCardsV2 is an independent, fan-made project.
+- This bot is NOT affiliated with, endorsed by, sponsored by, or connected to "Do Not Call Me" or any of its members, associates, or related entities.
+- Any resemblance to names, brands, or organizations is purely coincidental.
+
+8. CHANGES TO THIS POLICY
+- We reserve the right to update this privacy policy at any time.
+- Changes take effect immediately upon being saved to the policy file.
+- Users are encouraged to review this file periodically.
+
+9. CONTACT
+For questions, data requests, or concerns about this policy, contact the bot administrator directly on Discord.
+
+Powered by DNCme

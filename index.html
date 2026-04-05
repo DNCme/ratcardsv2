@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RatCardsV2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <img src="dncme.png" alt="" class="imghead" onclick="home">
+        <h2 class="headertxt" onclick="home">DNCme</h2>
+    </header>
+    <main class="main">
+        <h1 class="ratcards">RatCardsV2 - Grace Cards</h1>
+        <div class="centbutton">
+            <button class="addbutton" onclick="add">Add</button>
+        </div>
+    </main>
+    <div class="footer">
+        <h2 class="by">
+            By DNCme Team
+        </h2>
+        <div class="foot">
+            <a href="/privacy" class="inf">Privacy police</a>
+            <a href="/terms" class="inf">Terms of service</a>
+        </div>
+    </div>
+    <script>
+        function add() {
+            window.location.href = "https://discord.com/oauth2/authorize?client_id=1490006242389786714&permissions=1126451810380800&integration_type=0&scope=bot";
+        }
+        function home() {
+            window.location.href = "https://dncme.github.io/ratcardsv2/";
+        }
+    </script>
+</body>
+</html>

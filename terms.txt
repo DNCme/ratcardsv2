@@ -1,0 +1,65 @@
+TERMS OF SERVICE — RatCardsV2 Discord Bot
+
+Last Updated: April 5, 2026
+
+1. GENERAL
+- This bot is provided for entertainment purposes only.
+- By using this bot, you agree to these Terms of Service.
+- The developer is not responsible for data loss, lost coins, or service interruptions.
+- All virtual items (coins, cards, titles, banners) have no real-world monetary value and cannot be exchanged for real currency.
+
+2. ROLL COMMAND
+- The /roll command grants a random card with a 30-second cooldown per user.
+- Unique card drop chance: 5% (grants 3x coins reward).
+- Amethyst card drop chance from /roll: 0.4%.
+
+3. BOXES
+- Junk Box (150 coins): 5% amethyst chance.
+- Stone Box (500 coins): 15% amethyst chance.
+- Bronze Box (1,250 coins): 30% amethyst chance.
+- Silver Box (2,500 coins): 60% amethyst chance.
+- Gold Box (4,000 coins): 80% amethyst chance.
+- If an amethyst card is not rolled, a random regular card is awarded instead.
+
+4. GAMBLING (/dep)
+- x1 multiplier: 40% win chance
+- x3 multiplier: 30% win chance
+- x5 multiplier: 18% win chance
+- x10 multiplier: 8% win chance
+- x20 multiplier: 4% win chance
+- All gambling is virtual only. No real money is involved.
+- You must be of legal gambling age in your jurisdiction to use this feature.
+
+5. MARKETPLACE (AMETHYST ONLY)
+- Only amethyst cards may be listed on the marketplace.
+- Marketplace commission fee: 20% of the sale price (deducted from seller payout).
+- Auction system: First bid starts a 10-minute timer.
+- Minimum bid increment: +10% of the current highest bid.
+- Each new bid resets the auction timer to 10 minutes.
+- The previous highest bidder is fully refunded their coins.
+- When the timer expires, the card is awarded to the highest bidder and the seller receives payment (minus commission).
+- The seller cannot bid on their own listing.
+
+6. SELLING (/sell)
+- The /sell command provides instant selling with a 40% commission fee.
+- Usage: /sell price:<amount> card:<index>
+
+7. CUSTOMIZATION
+- Titles, colors, banners, and bios can be purchased in the shop.
+- These items are cosmetic only and do not affect gameplay mechanics beyond profile appearance.
+
+8. DATA & PRIVACY
+- The bot stores user data including Discord ID, coins, cards, level, and customization settings.
+- Data is stored locally and is not shared with third parties.
+- See privacy.txt for full details.
+
+9. MODIFICATION OF TERMS
+- The developer reserves the right to modify these terms at any time without prior notice.
+- Continued use of the bot after changes constitutes acceptance of the updated terms.
+
+10. DISCLAIMER
+- RatCardsV2 is an unofficial fan-made Discord bot.
+- It is not affiliated with or endorsed by Discord Inc.
+- All card images and content are used with permission or are original creations.
+
+Powered by DNCme
