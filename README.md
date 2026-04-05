@@ -6,7 +6,7 @@ Discord bot for collecting cards with amethyst drops, marketplace auctions, and 
 
 ## Add to Your Server
 
-[**Add RatCardsV2 to your Discord server**](https://discord.com/oauth2/authorize?client_id=1490006242389786714&permissions=2147485696&scope=bot%20applications.commands](https://discord.com/oauth2/authorize?client_id=1490006242389786714&permissions=1126451810380800&integration_type=0&scope=bot)
+[**Add RatCardsV2 to your Discord server**](https://discord.com/oauth2/authorize?client_id=1490006242389786714&permissions=1126451810380800&integration_type=0&scope=bot)
 
 ## Features
 
