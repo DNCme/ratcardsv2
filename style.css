@@ -16,7 +16,7 @@ body {
     position: sticky;
     display: flex;
     background-color: rgba(0, 0, 0, 0.9);
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(33px);
     padding: 0px;
     width: 100%;
     align-items: center;
